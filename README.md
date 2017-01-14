@@ -24,8 +24,11 @@
 ## 内核社区
 
 [Kernel Newbies](http://kernelnewbies.org/)
+
 [Linux Kernel Mailing List Archive](https://lkml.org/)
+
 [Kernel Mailing List Information](http://vger.kernel.org/)
+
 [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 
 ## 内存管理子系统
@@ -41,7 +44,9 @@
 ### 伙伴系统
 
 [浅析 Linux 内核内存管理之 Buddy System](http://blog.csdn.net/hsly_support/article/details/7483113)
+
 [关于 Buddy（伙伴）算法的讨论](http://blog.csdn.net/zhongnanjun_3/article/details/21799209)
+
 [浅析 armlinux-Buddy (伙伴)算法-释放合并回收函数__free_pages_ok()](http://blog.chinaunix.net/uid-20564848-id-72856.html)
 
 ### 内存分配
@@ -51,12 +56,15 @@
 ### 内存回收和页面交换
 
 [Linux 内存页面定期换出](http://memorymyann.iteye.com/blog/208583)
+
 [mm/vmscan.c 分析](http://blog.chinaunix.net/uid-10701701-id-91784.html)
+
 [Linux 内存管理--内存回收](http://blog.csdn.net/wenwuge_topsec/article/details/9998417)
 
 ### 反向映射
 
 [Linux 2.6 内存反向映射机制 Reverse Mapping](http://www.cnblogs.com/visayafan/archive/2011/12/24/2300758.html)
+
 [Linux 内存管理--内存回收](http://blog.csdn.net/wenwuge_topsec/article/details/9998417) - 关于匿名页的反向映射讲得很清晰
 
 ### 内存共享
