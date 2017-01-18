@@ -67,6 +67,10 @@
 
 [Linux 内存管理--内存回收](http://blog.csdn.net/wenwuge_topsec/article/details/9998417) - 关于匿名页的反向映射讲得很清晰
 
+[Linux 内核 Priority Search Tree 详解](http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=2308502&page=1) - 手绘的示意图，讲解很清晰
+
+[PST 优先搜索树原理及在 Linux 内核中的应用浅析](http://www.cnki.com.cn/Article/CJFDTotal-DNBC201213018.htm) - 对 PST 的讲解清晰到可怕
+
 ### 内存共享
 
 [关于 Linux 内核 fork 后 cow (写时复制)的代码分析](http://www.oschina.net/question/234345_48023)
