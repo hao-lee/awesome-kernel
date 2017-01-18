@@ -71,6 +71,8 @@
 
 [PST 优先搜索树原理及在 Linux 内核中的应用浅析](http://www.cnki.com.cn/Article/CJFDTotal-DNBC201213018.htm) - 对 PST 的讲解清晰到可怕
 
+[基数树原理及在 Linux 内核中的应用分析](http://www.cnki.com.cn/Article/CJFDTotal-DNBC201317009.htm)
+
 ### 内存共享
 
 [关于 Linux 内核 fork 后 cow (写时复制)的代码分析](http://www.oschina.net/question/234345_48023)
