@@ -61,6 +61,8 @@
 
 [Linux 内存管理--内存回收](http://blog.csdn.net/wenwuge_topsec/article/details/9998417)
 
+[Linux内存管理之页面回收](http://blog.csdn.net/bullbat/article/details/7311205)
+
 ### 反向映射
 
 [Linux 2.6 内存反向映射机制 Reverse Mapping](http://www.cnblogs.com/visayafan/archive/2011/12/24/2300758.html)
@@ -72,6 +74,8 @@
 [PST 优先搜索树原理及在 Linux 内核中的应用浅析](http://www.cnki.com.cn/Article/CJFDTotal-DNBC201213018.htm) - 对 PST 的讲解清晰到可怕
 
 [基数树原理及在 Linux 内核中的应用分析](http://www.cnki.com.cn/Article/CJFDTotal-DNBC201317009.htm)
+
+[Linux 中的优先搜索树的实现](http://blog.csdn.net/dog250/article/details/5700317)
 
 ### 内存共享
 
