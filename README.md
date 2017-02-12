@@ -17,6 +17,7 @@
 	* [内存回收和页面交换](#内存回收和页面交换)
 	* [反向映射](#反向映射)
 	* [内存共享](#内存共享)
+	* [其他资料](#其他资料)
 * [其他子系统待添加]()
 
 ---
@@ -80,6 +81,12 @@
 ### 内存共享
 
 [关于 Linux 内核 fork 后 cow (写时复制)的代码分析](http://www.oschina.net/question/234345_48023)
+
+### 其他资料
+
+[Some existing documentation on Linux Memory Management](https://landley.net/writing/memory-faq.txt)
+
+[Understanding the Linux Virtual Memory Manager (by Mel Gorman)](https://www.kernel.org/doc/gorman/html/understand/)
 
 ---
 
