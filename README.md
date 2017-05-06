@@ -37,6 +37,8 @@
 
 ### 架构与原理
 
+[浅析linux内核内存管理之PAE](http://blog.csdn.net/hsly_support/article/details/7463569)
+
 [x86的pae, pse和x86-64](http://blog.sina.com.cn/s/blog_556dd8900100glog.html)
 
 [Linux内核4级页表的演进](http://lib.csdn.net/article/operatingsystem/23291) - 深受启发
