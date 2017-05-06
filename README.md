@@ -37,6 +37,8 @@
 
 ### 架构与原理
 
+[x86的pae, pse和x86-64](http://blog.sina.com.cn/s/blog_556dd8900100glog.html)
+
 [Linux内核4级页表的演进](http://lib.csdn.net/article/operatingsystem/23291) - 深受启发
 
 [Four-level page tables](https://lwn.net/Articles/106177/)
