@@ -10,6 +10,7 @@
 
 * [内核社区](#内核社区)
 * [内存管理子系统](#内存管理子系统)
+	* [架构与原理](#架构与原理)
 	* [内存初始化](#内存初始化)
 	* [内存映射](#内存映射)
 	* [伙伴系统](#伙伴系统)
@@ -33,6 +34,12 @@
 [OSDev Wiki](http://wiki.osdev.org/Main_Page)
 
 ## 内存管理子系统
+
+### 架构与原理
+
+[Linux内核4级页表的演进](http://lib.csdn.net/article/operatingsystem/23291) - 深受启发
+
+[Four-level page tables](https://lwn.net/Articles/106177/)
 
 ### 内存初始化
 
